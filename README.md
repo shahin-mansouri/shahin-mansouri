@@ -1,5 +1,5 @@
 # 💫 About Me:
-python programer<br>django framework<br>matlab <br>mathematica<br>jupyter notbook<br>docker<br>api
+python programer<br>django framework<br>matlab <br>mathematica<br>jupyter notbook<br>docker
 
 
 ## 🌐 Socials:
